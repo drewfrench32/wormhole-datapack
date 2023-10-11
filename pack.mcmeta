@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 18,
+        "description": "Allows the creation of aimed portals to teleport entities a short distance."
+    }
+}
